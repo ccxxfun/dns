@@ -1,0 +1,59 @@
+body {
+	text-align: center;
+}
+
+.container, .container-fluid {
+	text-align: center;
+	width: auto;
+	display: inline-block;
+}
+
+.header, .mainbar, .footer {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.center-pills {
+	display: inline-block;
+}
+
+#result, #format {
+	width: 366px;
+	text-align: left;
+	margin: auto;
+}
+
+#range, #duoshuo {
+	width: 366px;
+	text-align: center;
+	margin: auto;
+}
+
+.container {
+      width:980px;
+      margin:0 auto;
+      height:auto;
+      min-height:100%;
+      position:relative;
+   }
+   .content {
+      height: 2000px;
+      border: 1px solid red;
+   }
+   #goToTop {
+      position: fixed;
+      bottom: 20px;
+      right: 10%;
+   }
+  #goToTop a {
+     background: none repeat scroll 0 0 #fafafb;
+     border: 1px solid #CCCCCC;
+     border-radius: 3px;
+     -webkit-border-radius: 3px;
+     color: #000000;
+     font-size: 14px;
+     padding: 5px;
+     text-decoration: none;
+     text-shadow: 0 1px 0 #999;
+     -webkit-text-shadow: 0 1px 0 #999;            
+     }
